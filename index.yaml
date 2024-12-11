@@ -9,5 +9,5 @@ entries:
     type: application
     urls:
     - streamlit-app-0.1.0.tgz
-    version: 0.1.0
+    version: 0.2.0
 generated: "2024-12-10T09:31:19.170017207Z"

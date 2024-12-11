@@ -3,11 +3,11 @@ entries:
   streamlit-app:
   - apiVersion: v2
     created: "2024-12-10T09:31:19.171130378Z"
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetes with AI Application
     digest: 615b110ccc541918e7ec699a64c9e7879e1823eacd238467714d18bc6e8dfb2b
     name: streamlit-app
     type: application
     urls:
     - streamlit-app-0.1.0.tgz
-    version: 0.1.0
+    version: 0.2.0
 generated: "2024-12-10T09:31:19.170017207Z"
